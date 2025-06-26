@@ -1,0 +1,15 @@
+# Python
+venv/
+.env
+*.pyc
+__pycache__/
+
+# Dados e modelos
+logs/
+saved_models/
+data/
+*.h5
+
+# IDE
+.idea/
+.vscode/
